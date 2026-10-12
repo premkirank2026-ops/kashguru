@@ -1,0 +1,6 @@
+{
+  "name": "KashFlow Financial Calendar (INR)",
+  "description": "Mobile-first financial calendar, transaction ledger, and smart arithmetic calculator in Indian Rupees (₹) with custom date and date-range filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
